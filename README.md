@@ -9,7 +9,7 @@
 For more information go to: https://pypi.org/project/deep-translator/
 
 # About
-<code>
+<section>
        ....
    .xH888888Hx.
  .H8888888888888:                           .d``
@@ -48,4 +48,4 @@ optional arguments:
 
 example: $ python TranslateText.py -s en -d ro -t text_needs_translation.txt
  
-</code>
+</section>
