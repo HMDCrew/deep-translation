@@ -1,8 +1,8 @@
 # Requirements
 
 <code>
- conda create -n translate python=3.9
- conda activate translate
+ conda create -n translate python=3.9<br>
+ conda activate translate<br>
  pip install deep-translator
 </code>
 
