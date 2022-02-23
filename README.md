@@ -9,7 +9,6 @@
 For more information go to: https://pypi.org/project/deep-translator/
 
 # About
-<section>
        ....
    .xH888888Hx.
  .H8888888888888:                           .d``
@@ -45,7 +44,6 @@ optional arguments:
   -o O                 Output file translated
   --compact [COMPACT]  Compact text for reduce number of requests for most big files
 (testransl) hmd@DESKTOP-R48RN54:~/translate/translate-text-file$
-
+<code>
 example: $ python TranslateText.py -s en -d ro -t text_needs_translation.txt
- 
-</section>
+</code>
